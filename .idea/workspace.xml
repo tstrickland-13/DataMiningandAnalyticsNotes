@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47327bfd-fa01-434b-b2c1-52f411ab037b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DataMiningandAnalyticsNotes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Book Notes by Concept/Part 2: Data Exploration and Dimension Reduction/Data Visualization.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Book Notes by Concept/Predictive Models/Multiple Linear Regression Predictive Model (Housing Prices).ipynb" afterDir="false" />
+    <list default="true" id="47327bfd-fa01-434b-b2c1-52f411ab037b" name="Changes" comment="New">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "tstrickland-13"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/tstrickland-13/DataMiningandAnalyticsNotes.git",
+    "accountId": "351d8a02-b0d9-469e-b525-d189bfd5c639"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -87,11 +91,48 @@
       <workItem from="1745881299510" duration="15375000" />
       <workItem from="1745962875283" duration="32000" />
       <workItem from="1745962947901" duration="36000" />
+      <workItem from="1745962997689" duration="205000" />
     </task>
+    <task id="LOCAL-00001" summary="New">
+      <option name="closed" value="true" />
+      <created>1745963064877</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745963064877</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New" />
+    <option name="LAST_COMMIT_MESSAGE" value="New" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

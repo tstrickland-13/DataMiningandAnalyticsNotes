@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47327bfd-fa01-434b-b2c1-52f411ab037b" name="Changes" comment="New">
+      <change afterPath="$PROJECT_DIR$/Book Notes by Concept/Part 2: Data Exploration and Dimension Reduction/Ch. 3: Data Visualization.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Overview of the Data Mining Process.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Ch. 2: Overview of the Data Mining Process.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book Notes by Concept/Part 2: Data Exploration and Dimension Reduction/Data Visualization.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,18 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "tstrickland-13"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;tstrickland-13&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/tstrickland-13/DataMiningandAnalyticsNotes.git",
-    "accountId": "351d8a02-b0d9-469e-b525-d189bfd5c639"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/tstrickland-13/DataMiningandAnalyticsNotes.git&quot;,
+    &quot;accountId&quot;: &quot;351d8a02-b0d9-469e-b525-d189bfd5c639&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -64,11 +67,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.venv/lib/Datasets" />
       <recent name="$PROJECT_DIR$/.venv/lib" />
       <recent name="$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries" />
       <recent name="$PROJECT_DIR$/Book Notes by Concept/Datasets" />
       <recent name="$PROJECT_DIR$/Book Notes by Concept" />
-      <recent name="$PROJECT_DIR$/.venv/Datasets" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -92,6 +95,11 @@
       <workItem from="1745962875283" duration="32000" />
       <workItem from="1745962947901" duration="36000" />
       <workItem from="1745962997689" duration="205000" />
+      <workItem from="1746035255406" duration="14752000" />
+      <workItem from="1746406539898" duration="21000" />
+      <workItem from="1746406567799" duration="12000" />
+      <workItem from="1746407014064" duration="26000" />
+      <workItem from="1746407121351" duration="23000" />
     </task>
     <task id="LOCAL-00001" summary="New">
       <option name="closed" value="true" />
@@ -138,102 +146,102 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Overview of the Data Mining Process.ipynb</url>
+          <url>file://$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Ch. 2: Overview of the Data Mining Process.ipynb</url>
           <line>18</line>
           <option name="timeStamp" value="55" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Overview of the Data Mining Process.ipynb</url>
+          <url>file://$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Ch. 2: Overview of the Data Mining Process.ipynb</url>
           <line>19</line>
           <option name="timeStamp" value="56" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Overview of the Data Mining Process.ipynb</url>
+          <url>file://$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Ch. 2: Overview of the Data Mining Process.ipynb</url>
           <line>23</line>
           <option name="timeStamp" value="57" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Overview of the Data Mining Process.ipynb</url>
+          <url>file://$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Ch. 2: Overview of the Data Mining Process.ipynb</url>
           <line>24</line>
           <option name="timeStamp" value="58" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Overview of the Data Mining Process.ipynb</url>
+          <url>file://$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Ch. 2: Overview of the Data Mining Process.ipynb</url>
           <line>25</line>
           <option name="timeStamp" value="59" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Overview of the Data Mining Process.ipynb</url>
+          <url>file://$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Ch. 2: Overview of the Data Mining Process.ipynb</url>
           <line>29</line>
           <option name="timeStamp" value="60" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Overview of the Data Mining Process.ipynb</url>
+          <url>file://$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Ch. 2: Overview of the Data Mining Process.ipynb</url>
           <line>30</line>
           <option name="timeStamp" value="61" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Overview of the Data Mining Process.ipynb</url>
+          <url>file://$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Ch. 2: Overview of the Data Mining Process.ipynb</url>
           <line>31</line>
           <option name="timeStamp" value="62" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Overview of the Data Mining Process.ipynb</url>
+          <url>file://$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Ch. 2: Overview of the Data Mining Process.ipynb</url>
           <line>40</line>
           <option name="timeStamp" value="64" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Overview of the Data Mining Process.ipynb</url>
+          <url>file://$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Ch. 2: Overview of the Data Mining Process.ipynb</url>
           <line>39</line>
           <option name="timeStamp" value="65" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Overview of the Data Mining Process.ipynb</url>
+          <url>file://$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Ch. 2: Overview of the Data Mining Process.ipynb</url>
           <line>41</line>
           <option name="timeStamp" value="66" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Overview of the Data Mining Process.ipynb</url>
+          <url>file://$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Ch. 2: Overview of the Data Mining Process.ipynb</url>
           <line>46</line>
           <option name="timeStamp" value="67" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Overview of the Data Mining Process.ipynb</url>
+          <url>file://$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Ch. 2: Overview of the Data Mining Process.ipynb</url>
           <line>45</line>
           <option name="timeStamp" value="68" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Overview of the Data Mining Process.ipynb</url>
+          <url>file://$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Ch. 2: Overview of the Data Mining Process.ipynb</url>
           <line>44</line>
           <option name="timeStamp" value="69" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Overview of the Data Mining Process.ipynb</url>
+          <url>file://$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Ch. 2: Overview of the Data Mining Process.ipynb</url>
           <line>56</line>
           <option name="timeStamp" value="70" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Overview of the Data Mining Process.ipynb</url>
+          <url>file://$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Ch. 2: Overview of the Data Mining Process.ipynb</url>
           <line>58</line>
           <option name="timeStamp" value="71" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Overview of the Data Mining Process.ipynb</url>
+          <url>file://$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Ch. 2: Overview of the Data Mining Process.ipynb</url>
           <line>59</line>
           <option name="timeStamp" value="72" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Overview of the Data Mining Process.ipynb</url>
+          <url>file://$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Ch. 2: Overview of the Data Mining Process.ipynb</url>
           <line>35</line>
           <option name="timeStamp" value="73" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Overview of the Data Mining Process.ipynb</url>
+          <url>file://$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Ch. 2: Overview of the Data Mining Process.ipynb</url>
           <line>8</line>
           <option name="timeStamp" value="74" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Overview of the Data Mining Process.ipynb</url>
+          <url>file://$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Ch. 2: Overview of the Data Mining Process.ipynb</url>
           <line>9</line>
           <option name="timeStamp" value="75" />
         </line-breakpoint>

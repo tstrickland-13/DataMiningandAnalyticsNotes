@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47327bfd-fa01-434b-b2c1-52f411ab037b" name="Changes" comment="New">
-      <change afterPath="$PROJECT_DIR$/Book Notes by Concept/Part 2: Data Exploration and Dimension Reduction/Ch. 3: Data Visualization.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Overview of the Data Mining Process.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Book Notes by Concept/Part 1: Preliminaries/Ch. 2: Overview of the Data Mining Process.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book Notes by Concept/Part 2: Data Exploration and Dimension Reduction/Data Visualization.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book Notes by Concept/Part 2: Data Exploration and Dimension Reduction/Ch. 3: Data Visualization.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Book Notes by Concept/Part 2: Data Exploration and Dimension Reduction/Ch. 3: Data Visualization.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +98,10 @@
       <workItem from="1746406567799" duration="12000" />
       <workItem from="1746407014064" duration="26000" />
       <workItem from="1746407121351" duration="23000" />
+      <workItem from="1746654600976" duration="91000" />
+      <workItem from="1746662092588" duration="8068000" />
+      <workItem from="1746736228108" duration="3946000" />
+      <workItem from="1747076158909" duration="12086000" />
     </task>
     <task id="LOCAL-00001" summary="New">
       <option name="closed" value="true" />

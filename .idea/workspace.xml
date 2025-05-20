@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47327bfd-fa01-434b-b2c1-52f411ab037b" name="Changes" comment="New">
-      <change beforePath="$PROJECT_DIR$/Book Notes by Concept/Trained Models:/Torin Real Estate - Manatee County.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Book Notes by Concept/Trained Models:/Predictive Analysis of Manatee County Appraiser's Office Data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book Notes by Concept/Part 2: Data Exploration and Dimension Reduction/Ch. 3: Data Visualization.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Book Notes by Concept/Part 2: Data Exploration and Dimension Reduction/Ch. 3: Data Visualization.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +103,7 @@
       <workItem from="1747076158909" duration="12086000" />
       <workItem from="1747172013685" duration="15532000" />
       <workItem from="1747443434479" duration="13000" />
-      <workItem from="1747443496149" duration="5959000" />
+      <workItem from="1747443496149" duration="6180000" />
     </task>
     <task id="LOCAL-00001" summary="New">
       <option name="closed" value="true" />
@@ -130,7 +130,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="origin/master" />
                       </list>
                     </value>
                   </entry>

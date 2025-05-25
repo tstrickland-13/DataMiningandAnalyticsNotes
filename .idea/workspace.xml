@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47327bfd-fa01-434b-b2c1-52f411ab037b" name="Changes" comment="New" />
+    <list default="true" id="47327bfd-fa01-434b-b2c1-52f411ab037b" name="Changes" comment="New">
+      <change afterPath="$PROJECT_DIR$/Book Notes by Concept/Part 2: Performance Evaluation/Ch. 5: Evaluating Predictive Performance.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Book Notes by Concept/Trained Models:/Principal Component Analysis (PCA)(Non-Normalized).ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book Notes by Concept/Part 2: Data Exploration and Dimension Reduction/Ch. 4: Dimension Reduction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Book Notes by Concept/Part 2: Data Exploration and Dimension Reduction/Ch. 4: Dimension Reduction.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,6 +107,8 @@
       <workItem from="1747172013685" duration="15532000" />
       <workItem from="1747443434479" duration="13000" />
       <workItem from="1747443496149" duration="6494000" />
+      <workItem from="1747786231244" duration="18000" />
+      <workItem from="1748054666196" duration="8316000" />
     </task>
     <task id="LOCAL-00001" summary="New">
       <option name="closed" value="true" />
